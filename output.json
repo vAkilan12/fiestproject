@@ -1,0 +1,3562 @@
+[
+ {
+ "_id": 1,
+ "description": "Adapter, redu, 1\"x3/4\", PVC, S80, SxT",
+ "noun_name": "ADAPTER",
+ "material_type": "PVC",
+ "pressure_rating": "SCH 80",
+ "noun_type": "REDUCED",
+ "end_connection": [
+ {
+ "end_conn1": "SOC",
+ "end_conn2": ""
+ }
+ ],
+ "size": [
+ {
+ "end_size1": "1\"",
+ "end_size2": ""
+ }
+ ]
+ },
+ {
+ "_id": 2,
+ "description": "Adapter, feml, 2\", PVC, S80, SxT",
+ "noun_name": "ADAPTER",
+ "material_type": "PVC",
+ "pressure_rating": "SCH 80",
+ "noun_type": "",
+ "end_connection": [
+ {
+ "end_conn1": "SOC",
+ "end_conn2": ""
+ }
+ ],
+ "size": [
+ {
+ "end_size1": "2\"",
+ "end_size2": ""
+ }
+ ]
+ },
+ {
+ "_id": 3,
+ "description": "ADAPTER, 1.25 X MALE CLIP, PVC, KINETICO",
+ "noun_name": "ADAPTER",
+ "material_type": "PVC",
+ "pressure_rating": "",
+ "noun_type": "",
+ "end_connection": [
+ {
+ "end_conn1": "",
+ "end_conn2": "MALE"
+ }
+ ],
+ "size": [
+ {
+ "end_size1": "1.25",
+ "end_size2": ""
+ }
+ ]
+ },
+ {
+ "_id": 4,
+ "description": "ADAPTER,MALE, 1\", CPVC",
+ "noun_name": "ADAPTER",
+ "material_type": "CPVC",
+ "pressure_rating": "",
+ "noun_type": "",
+ "end_connection": [
+ {
+ "end_conn1": "",
+ "end_conn2": "MALE"
+ }
+ ],
+ "size": [
+ {
+ "end_size1": "1\"",
+ "end_size2": ""
+ }
+ ]
+ },
+ {
+ "_id": 5,
+ "description": "ADAPTER, MALE, 1\",CPVC, MODIFIED",
+ "noun_name": "ADAPTER",
+ "material_type": "CPVC",
+ "pressure_rating": "",
+ "noun_type": "",
+ "end_connection": [
+ {
+ "end_conn1": "",
+ "end_conn2": "MALE"
+ }
+ ],
+ "size": [
+ {
+ "end_size1": "1\"",
+ "end_size2": ""
+ }
+ ]
+ },
+ {
+ "_id": 6,
+ "description": "Adapter, male, 1.25\", CPVC, Machined",
+ "noun_name": "ADAPTER",
+ "material_type": "CPVC",
+ "pressure_rating": "",
+ "noun_type": "",
+ "end_connection": [
+ {
+ "end_conn1": "",
+ "end_conn2": "MALE"
+ }
+ ],
+ "size": [
+ {
+ "end_size1": "1.25",
+ "end_size2": ""
+ }
+ ]
+ },
+ {
+ "_id": 7,
+ "description": "ADAPTER, 2\"NPT TO DRUM PMP",
+ "noun_name": "ADAPTER",
+ "material_type": "",
+ "pressure_rating": "",
+ "noun_type": "",
+ "end_connection": [
+ {
+ "end_conn1": "",
+ "end_conn2": ""
+ }
+ ],
+ "size": [
+ {
+ "end_size1": "2\"",
+ "end_size2": ""
+ }
+ ]
+ },
+ {
+ "_id": 8,
+ "description": "Adapter, FSh, 316, 1/2MNPT x M18",
+ "noun_name": "ADAPTER",
+ "material_type": "SS316",
+ "pressure_rating": "",
+ "noun_type": "",
+ "end_connection": [
+ {
+ "end_conn1": "MT",
+ "end_conn2": "MT"
+ }
+ ],
+ "size": [
+ {
+ "end_size1": "1/2\"",
+ "end_size2": ""
+ }
+ ]
+ },
+ {
+ "_id": 9,
+ "description": "Adapter, M16x1/2\", Brs/Ni, TXT",
+ "noun_name": "ADAPTER",
+ "material_type": "BRS",
+ "pressure_rating": "",
+ "noun_type": "",
+ "end_connection": [
+ {
+ "end_conn1": "MT",
+ "end_conn2": ""
+ }
+ ],
+ "size": [
+ {
+ "end_size1": "16\"",
+ "end_size2": ""
+ }
+ ]
+ },
+ {
+ "_id": 10,
+ "description": "Adapter, 3\" to DN80 PN10, CPVC, SxS",
+ "noun_name": "ADAPTER",
+ "material_type": "CPVC",
+ "pressure_rating": "PN10",
+ "noun_type": "",
+ "end_connection": [
+ {
+ "end_conn1": "SOC",
+ "end_conn2": ""
+ }
+ ],
+ "size": [
+ {
+ "end_size1": "3\"",
+ "end_size2": ""
+ }
+ ]
+ },
+ {
+ "_id": 11,
+ "description": "Adapter, 1.5\" S80 to DN40 PN10, CPVC, Sx",
+ "noun_name": "ADAPTER",
+ "material_type": "CPVC",
+ "pressure_rating": "PN10",
+ "noun_type": "",
+ "end_connection": [
+ {
+ "end_conn1": "",
+ "end_conn2": ""
+ }
+ ],
+ "size": [
+ {
+ "end_size1": "1.5\"",
+ "end_size2": ""
+ }
+ ]
+ },
+ {
+ "_id": 12,
+ "description": "ADAPTER TANK 3/4 PVC/VITON SxT",
+ "noun_name": "ADAPTER",
+ "material_type": "PVC",
+ "pressure_rating": "",
+ "noun_type": "",
+ "end_connection": [
+ {
+ "end_conn1": "",
+ "end_conn2": ""
+ }
+ ],
+ "size": [
+ {
+ "end_size1": "3/4\"",
+ "end_size2": ""
+ }
+ ]
+ },
+ {
+ "_id": 13,
+ "description": "ADAPTER TANK 1\" PVC/VITON",
+ "noun_name": "ADAPTER",
+ "material_type": "PVC",
+ "pressure_rating": "",
+ "noun_type": "",
+ "end_connection": [
+ {
+ "end_conn1": "",
+ "end_conn2": ""
+ }
+ ],
+ "size": [
+ {
+ "end_size1": "1\"",
+ "end_size2": ""
+ }
+ ]
+ },
+ {
+ "_id": 14,
+ "description": "ADAPTER, PUSH, 1/4MTx3/8TB, ACETAL",
+ "noun_name": "ADAPTER",
+ "material_type": "ACTL",
+ "pressure_rating": "",
+ "noun_type": "",
+ "end_connection": [
+ {
+ "end_conn1": "MT",
+ "end_conn2": "TB"
+ }
+ ],
+ "size": [
+ {
+ "end_size1": "1/4\"",
+ "end_size2": ""
+ }
+ ]
+ },
+ {
+ "_id": 15,
+ "description": "ADAPTER, PUSH, 3/8TBx1/2MT, ACETAL",
+ "noun_name": "ADAPTER",
+ "material_type": "ACTL",
+ "pressure_rating": "",
+ "noun_type": "",
+ "end_connection": [
+ {
+ "end_conn1": "TB",
+ "end_conn2": "MT"
+ }
+ ],
+ "size": [
+ {
+ "end_size1": "3/8\"",
+ "end_size2": ""
+ }
+ ]
+ },
+ {
+ "_id": 16,
+ "description": "ADAPTER, 3/8\" MT x 3/8\" TB, PVDF",
+ "noun_name": "ADAPTER",
+ "material_type": "PVDF",
+ "pressure_rating": "",
+ "noun_type": "",
+ "end_connection": [
+ {
+ "end_conn1": "MT",
+ "end_conn2": "TB"
+ }
+ ],
+ "size": [
+ {
+ "end_size1": "3/8\"",
+ "end_size2": "3/8\""
+ }
+ ]
+ },
+ {
+ "_id": 17,
+ "description": "ADAPTER THRD-BARB 1/4NPTx1/8TU",
+ "noun_name": "ADAPTER",
+ "material_type": "",
+ "pressure_rating": "",
+ "noun_type": "",
+ "end_connection": [
+ {
+ "end_conn1": "SPG",
+ "end_conn2": "TU"
+ }
+ ],
+ "size": [
+ {
+ "end_size1": "1/4\"",
+ "end_size2": ""
+ }
+ ]
+ },
+ {
+ "_id": 18,
+ "description": "ADAPTER, PUSH, 1/4MTx3/8TB, PVDF",
+ "noun_name": "ADAPTER",
+ "material_type": "PVDF",
+ "pressure_rating": "",
+ "noun_type": "",
+ "end_connection": [
+ {
+ "end_conn1": "MT",
+ "end_conn2": "TB"
+ }
+ ],
+ "size": [
+ {
+ "end_size1": "1/4\"",
+ "end_size2": ""
+ }
+ ]
+ },
+ {
+ "_id": 19,
+ "description": "ADAPTER Elbow 1/4\"MTx3/8\"Barb,",
+ "noun_name": "ADAPTER",
+ "material_type": "",
+ "pressure_rating": "",
+ "noun_type": "",
+ "end_connection": [
+ {
+ "end_conn1": "MT",
+ "end_conn2": "BRB"
+ }
+ ],
+ "size": [
+ {
+ "end_size1": "1/4\"",
+ "end_size2": "3/8\""
+ }
+ ]
+ },
+ {
+ "_id": 20,
+ "description": "ADAPTER 1/2\"SxFT Sch 80 PVC",
+ "noun_name": "ADAPTER",
+ "material_type": "PVC",
+ "pressure_rating": "SCH 5",
+ "noun_type": "",
+ "end_connection": [
+ {
+ "end_conn1": "SOC",
+ "end_conn2": ""
+ }
+ ],
+ "size": [
+ {
+ "end_size1": "1/2\"",
+ "end_size2": ""
+ }
+ ]
+ },
+ {
+ "_id": 21,
+ "description": "ADAPTER, 3/4\" SOC x FT, PVC",
+ "noun_name": "ADAPTER",
+ "material_type": "PVC",
+ "pressure_rating": "",
+ "noun_type": "",
+ "end_connection": [
+ {
+ "end_conn1": "SOC",
+ "end_conn2": ""
+ }
+ ],
+ "size": [
+ {
+ "end_size1": "3/4\"",
+ "end_size2": ""
+ }
+ ]
+ },
+ {
+ "_id": 22,
+ "description": "ADAPTER TANK CPVC 4\" SxT VITON",
+ "noun_name": "ADAPTER",
+ "material_type": "CPVC",
+ "pressure_rating": "",
+ "noun_type": "",
+ "end_connection": [
+ {
+ "end_conn1": "SOC",
+ "end_conn2": ""
+ }
+ ],
+ "size": [
+ {
+ "end_size1": "",
+ "end_size2": ""
+ }
+ ]
+ },
+ {
+ "_id": 23,
+ "description": "ADAPTER,BULKHEAD,1/4BARBx1/4BARBx1/4NPSM",
+ "noun_name": "ADAPTER",
+ "material_type": "",
+ "pressure_rating": "",
+ "noun_type": "",
+ "end_connection": [
+ {
+ "end_conn1": "BRB",
+ "end_conn2": "BRB"
+ }
+ ],
+ "size": [
+ {
+ "end_size1": "1/4\"",
+ "end_size2": "1/4\""
+ }
+ ]
+ },
+ {
+ "_id": 24,
+ "description": "ADAPTER,BULKHEAD,3/8BARBx3/8BARBx1/4NSPM",
+ "noun_name": "ADAPTER",
+ "material_type": "",
+ "pressure_rating": "",
+ "noun_type": "",
+ "end_connection": [
+ {
+ "end_conn1": "BRB",
+ "end_conn2": "BRB"
+ }
+ ],
+ "size": [
+ {
+ "end_size1": "3/8\"",
+ "end_size2": "3/8\""
+ }
+ ]
+ },
+ {
+ "_id": 25,
+ "description": "ADAPTER, TANK,1\",TXT,CPVC",
+ "noun_name": "ADAPTER",
+ "material_type": "CPVC",
+ "pressure_rating": "",
+ "noun_type": "",
+ "end_connection": [
+ {
+ "end_conn1": "T",
+ "end_conn2": ""
+ }
+ ],
+ "size": [
+ {
+ "end_size1": "1\"",
+ "end_size2": ""
+ }
+ ]
+ },
+ {
+ "_id": 26,
+ "description": "ADAPTER,EL,1/4MTx1/8BARB,KYNAR",
+ "noun_name": "ADAPTER",
+ "material_type": "",
+ "pressure_rating": "",
+ "noun_type": "",
+ "end_connection": [
+ {
+ "end_conn1": "MT",
+ "end_conn2": "BRB"
+ }
+ ],
+ "size": [
+ {
+ "end_size1": "1/4\"",
+ "end_size2": ""
+ }
+ ]
+ },
+ {
+ "_id": 27,
+ "description": "ADAPTER, 1\", NPT x BARB, CPVC",
+ "noun_name": "ADAPTER",
+ "material_type": "CPVC",
+ "pressure_rating": "",
+ "noun_type": "",
+ "end_connection": [
+ {
+ "end_conn1": "",
+ "end_conn2": "BRB"
+ }
+ ],
+ "size": [
+ {
+ "end_size1": "1\"",
+ "end_size2": ""
+ }
+ ]
+ },
+ {
+ "_id": 28,
+ "description": "Adapter,Connector-e,  1/2\" x 3/4\", NP",
+ "noun_name": "ADAPTER",
+ "material_type": "",
+ "pressure_rating": "",
+ "noun_type": "",
+ "end_connection": [
+ {
+ "end_conn1": "",
+ "end_conn2": ""
+ }
+ ],
+ "size": [
+ {
+ "end_size1": "1/2\"",
+ "end_size2": "3/4\""
+ }
+ ]
+ },
+ {
+ "_id": 29,
+ "description": "ADAPTER, REMOTE CALIBRATION, SPLASH,",
+ "noun_name": "ADAPTER",
+ "material_type": "",
+ "pressure_rating": "",
+ "noun_type": "",
+ "end_connection": [
+ {
+ "end_conn1": "",
+ "end_conn2": ""
+ }
+ ],
+ "size": [
+ {
+ "end_size1": "",
+ "end_size2": ""
+ }
+ ]
+ },
+ {
+ "_id": 30,
+ "description": "ADAPTER, FEMALE, 1-1/2 INCH FIPT X",
+ "noun_name": "ADAPTER",
+ "material_type": "",
+ "pressure_rating": "",
+ "noun_type": "",
+ "end_connection": [
+ {
+ "end_conn1": "",
+ "end_conn2": ""
+ }
+ ],
+ "size": [
+ {
+ "end_size1": "1/2\"",
+ "end_size2": ""
+ }
+ ]
+ },
+ {
+ "_id": 31,
+ "description": "ADAPTER,QUICK CONNECT,ADAPTER X FEMALE",
+ "noun_name": "ADAPTER",
+ "material_type": "",
+ "pressure_rating": "",
+ "noun_type": "",
+ "end_connection": [
+ {
+ "end_conn1": "",
+ "end_conn2": ""
+ }
+ ],
+ "size": [
+ {
+ "end_size1": "",
+ "end_size2": ""
+ }
+ ]
+ },
+ {
+ "_id": 31,
+ "description": "ADAPTER,QUICK CONNECT,ADAPTER X FEMALE",
+ "noun_name": "ADAPTER",
+ "material_type": "",
+ "pressure_rating": "",
+ "noun_type": "",
+ "end_connection": [
+ {
+ "end_conn1": "",
+ "end_conn2": ""
+ }
+ ],
+ "size": [
+ {
+ "end_size1": "",
+ "end_size2": ""
+ }
+ ]
+ },
+ {
+ "_id": 32,
+ "description": "ADAPTER, TANK, 1-1/2 INCH SOC X THD,",
+ "noun_name": "ADAPTER",
+ "material_type": "",
+ "pressure_rating": "",
+ "noun_type": "",
+ "end_connection": [
+ {
+ "end_conn1": "SOC",
+ "end_conn2": "THD"
+ }
+ ],
+ "size": [
+ {
+ "end_size1": "1-1/2\"",
+ "end_size2": ""
+ }
+ ]
+ },
+ {
+ "_id": 33,
+ "description": "Adapter, male, 1/2\", Monel, tube,TUxT",
+ "noun_name": "ADAPTER",
+ "material_type": "",
+ "pressure_rating": "",
+ "noun_type": "",
+ "end_connection": [
+ {
+ "end_conn1": "TU",
+ "end_conn2": ""
+ }
+ ],
+ "size": [
+ {
+ "end_size1": "1/2\"",
+ "end_size2": ""
+ }
+ ]
+ },
+ {
+ "_id": 34,
+ "description": "Adapter, male, 1.5\", CPVC, S80, SxT",
+ "noun_name": "ADAPTER",
+ "material_type": "CPVC",
+ "pressure_rating": "SCH 80",
+ "noun_type": "",
+ "end_connection": [
+ {
+ "end_conn1": "SOC",
+ "end_conn2": ""
+ }
+ ],
+ "size": [
+ {
+ "end_size1": "1.5\"",
+ "end_size2": ""
+ }
+ ]
+ },
+ {
+ "_id": 35,
+ "description": "Adapter, male, 2\", CPVC, S80, SxT",
+ "noun_name": "ADAPTER",
+ "material_type": "CPVC",
+ "pressure_rating": "SCH 80",
+ "noun_type": "",
+ "end_connection": [
+ {
+ "end_conn1": "SOC",
+ "end_conn2": ""
+ }
+ ],
+ "size": [
+ {
+ "end_size1": "2\"",
+ "end_size2": ""
+ }
+ ]
+ },
+ {
+ "_id": 36,
+ "description": "Adapter, redu, 1/4\"x1/4\",316, MNPTxFBSPP",
+ "noun_name": "ADAPTER",
+ "material_type": "SS316",
+ "pressure_rating": "",
+ "noun_type": "REDUCED",
+ "end_connection": [
+ {
+ "end_conn1": "MT",
+ "end_conn2": ""
+ }
+ ],
+ "size": [
+ {
+ "end_size1": "1/4\"",
+ "end_size2": ""
+ }
+ ]
+ },
+ {
+ "_id": 37,
+ "description": "Adapter, M25x3/4\", Brs/Ni, TXT",
+ "noun_name": "ADAPTER",
+ "material_type": "BRS",
+ "pressure_rating": "",
+ "noun_type": "",
+ "end_connection": [
+ {
+ "end_conn1": "MT",
+ "end_conn2": ""
+ }
+ ],
+ "size": [
+ {
+ "end_size1": "25\"",
+ "end_size2": ""
+ }
+ ]
+ },
+ {
+ "_id": 38,
+ "description": "Adapter, 0.75x0.75,MNPTxMJIC, SS",
+ "noun_name": "ADAPTER",
+ "material_type": "SS",
+ "pressure_rating": "",
+ "noun_type": "",
+ "end_connection": [
+ {
+ "end_conn1": "MT",
+ "end_conn2": ""
+ }
+ ],
+ "size": [
+ {
+ "end_size1": "0.75",
+ "end_size2": "0.75"
+ }
+ ]
+ },
+ {
+ "_id": 39,
+ "description": "ADAPTER, MALE, 2 INCH MIPT X 2 INCH",
+ "noun_name": "ADAPTER",
+ "material_type": "",
+ "pressure_rating": "",
+ "noun_type": "",
+ "end_connection": [
+ {
+ "end_conn1": "",
+ "end_conn2": "MALE"
+ }
+ ],
+ "size": [
+ {
+ "end_size1": "2\"",
+ "end_size2": "2\""
+ }
+ ]
+ },
+ {
+ "_id": 40,
+ "description": "Adapter,Connector-e,  M20 x 1/2\"FPT, NP",
+ "noun_name": "ADAPTER",
+ "material_type": "",
+ "pressure_rating": "",
+ "noun_type": "",
+ "end_connection": [
+ {
+ "end_conn1": "MT",
+ "end_conn2": ""
+ }
+ ],
+ "size": [
+ {
+ "end_size1": "20\"",
+ "end_size2": ""
+ }
+ ]
+ },
+ {
+ "_id": 41,
+ "description": "Adapter,Connector-e,  M20 x 1/2\", NP",
+ "noun_name": "ADAPTER",
+ "material_type": "",
+ "pressure_rating": "",
+ "noun_type": "",
+ "end_connection": [
+ {
+ "end_conn1": "MT",
+ "end_conn2": ""
+ }
+ ],
+ "size": [
+ {
+ "end_size1": "20\"",
+ "end_size2": ""
+ }
+ ]
+ },
+ {
+ "_id": 42,
+ "description": "ADAPTER, 1\" FNPT, BRASS.",
+ "noun_name": "ADAPTER",
+ "material_type": "BRS",
+ "pressure_rating": "",
+ "noun_type": "",
+ "end_connection": [
+ {
+ "end_conn1": "",
+ "end_conn2": ""
+ }
+ ],
+ "size": [
+ {
+ "end_size1": "1\"",
+ "end_size2": ""
+ }
+ ]
+ },
+ {
+ "_id": 43,
+ "description": "ADAPTER, FEMALE, 3/4 INCH, SOC X THD,",
+ "noun_name": "ADAPTER",
+ "material_type": "",
+ "pressure_rating": "",
+ "noun_type": "",
+ "end_connection": [
+ {
+ "end_conn1": "SOC",
+ "end_conn2": "THD"
+ }
+ ],
+ "size": [
+ {
+ "end_size1": "3/4\"",
+ "end_size2": ""
+ }
+ ]
+ },
+ {
+ "_id": 44,
+ "description": "ADAPTER, TANK, 1/2 INCH FNPT X 1/2 INCH",
+ "noun_name": "ADAPTER",
+ "material_type": "",
+ "pressure_rating": "",
+ "noun_type": "",
+ "end_connection": [
+ {
+ "end_conn1": "FT",
+ "end_conn2": ""
+ }
+ ],
+ "size": [
+ {
+ "end_size1": "1/2\"",
+ "end_size2": "1/2\""
+ }
+ ]
+ },
+ {
+ "_id": 45,
+ "description": " ADAPTER CABLE, USB TO I2C WITH USB CABLE",
+ "noun_name": "ADAPTER",
+ "material_type": "",
+ "pressure_rating": "",
+ "noun_type": "",
+ "end_connection": [
+ {
+ "end_conn1": "",
+ "end_conn2": ""
+ }
+ ],
+ "size": [
+ {
+ "end_size1": "",
+ "end_size2": ""
+ }
+ ]
+ },
+ {
+ "_id": 46,
+ "description": "Adapter, M12/HDA Connector",
+ "noun_name": "ADAPTER",
+ "material_type": "",
+ "pressure_rating": "",
+ "noun_type": "",
+ "end_connection": [
+ {
+ "end_conn1": "",
+ "end_conn2": ""
+ }
+ ],
+ "size": [
+ {
+ "end_size1": "",
+ "end_size2": ""
+ }
+ ]
+ },
+ {
+ "_id": 47,
+ "description": "ADAPTER PANEL MOUNT",
+ "noun_name": "ADAPTER",
+ "material_type": "",
+ "pressure_rating": "",
+ "noun_type": "",
+ "end_connection": [
+ {
+ "end_conn1": "",
+ "end_conn2": ""
+ }
+ ],
+ "size": [
+ {
+ "end_size1": "",
+ "end_size2": ""
+ }
+ ]
+ },
+ {
+ "_id": 48,
+ "description": "ADAPTER MALE  1/2\"THD X 3/4\"HOSE PVC SPEA",
+ "noun_name": "ADAPTER",
+ "material_type": "PE",
+ "pressure_rating": "",
+ "noun_type": "",
+ "end_connection": [
+ {
+ "end_conn1": "THD",
+ "end_conn2": ""
+ }
+ ],
+ "size": [
+ {
+ "end_size1": "1/2\"",
+ "end_size2": "3/4\""
+ }
+ ]
+ },
+ {
+ "_id": 49,
+ "description": "Adapter, male, 1/4\", 316, tube, TUxNPT",
+ "noun_name": "ADAPTER",
+ "material_type": "SS316",
+ "pressure_rating": "",
+ "noun_type": "",
+ "end_connection": [
+ {
+ "end_conn1": "TU",
+ "end_conn2": ""
+ }
+ ],
+ "size": [
+ {
+ "end_size1": "1/4\"",
+ "end_size2": ""
+ }
+ ]
+ },
+ {
+ "_id": 50,
+ "description": "Adapter, male, 1/2\"x1/2\", 316, tube,TUxT",
+ "noun_name": "ADAPTER",
+ "material_type": "SS316",
+ "pressure_rating": "",
+ "noun_type": "",
+ "end_connection": [
+ {
+ "end_conn1": "TU",
+ "end_conn2": ""
+ }
+ ],
+ "size": [
+ {
+ "end_size1": "1/2\"",
+ "end_size2": ""
+ }
+ ]
+ },
+ {
+ "_id": 51,
+ "description": "Adapter, feml, 1/2\", PVC, S80, SxT",
+ "noun_name": "ADAPTER",
+ "material_type": "PVC",
+ "pressure_rating": "SCH 80",
+ "noun_type": "",
+ "end_connection": [
+ {
+ "end_conn1": "SOC",
+ "end_conn2": ""
+ }
+ ],
+ "size": [
+ {
+ "end_size1": "1/2\"",
+ "end_size2": ""
+ }
+ ]
+ },
+ {
+ "_id": 52,
+ "description": "Adapter, male, 3/4\", PVC, S80, SxT",
+ "noun_name": "ADAPTER",
+ "material_type": "PVC",
+ "pressure_rating": "SCH 80",
+ "noun_type": "",
+ "end_connection": [
+ {
+ "end_conn1": "SOC",
+ "end_conn2": ""
+ }
+ ],
+ "size": [
+ {
+ "end_size1": "3/4\"",
+ "end_size2": ""
+ }
+ ]
+ },
+ {
+ "_id": 53,
+ "description": "Adapter, male, 1.25\", PVC, S80, SxT",
+ "noun_name": "ADAPTER",
+ "material_type": "PVC",
+ "pressure_rating": "SCH 80",
+ "noun_type": "",
+ "end_connection": [
+ {
+ "end_conn1": "SOC",
+ "end_conn2": ""
+ }
+ ],
+ "size": [
+ {
+ "end_size1": "1.25",
+ "end_size2": ""
+ }
+ ]
+ },
+ {
+ "_id": 54,
+ "description": "Adapter, male, 3/4\", CPVC, S80, SxT",
+ "noun_name": "ADAPTER",
+ "material_type": "CPVC",
+ "pressure_rating": "SCH 80",
+ "noun_type": "",
+ "end_connection": [
+ {
+ "end_conn1": "SOC",
+ "end_conn2": ""
+ }
+ ],
+ "size": [
+ {
+ "end_size1": "3/4\"",
+ "end_size2": ""
+ }
+ ]
+ },
+ {
+ "_id": 55,
+ "description": "Adapter, male, 1.25\", CPVC, S80, SxT",
+ "noun_name": "ADAPTER",
+ "material_type": "CPVC",
+ "pressure_rating": "SCH 80",
+ "noun_type": "",
+ "end_connection": [
+ {
+ "end_conn1": "SOC",
+ "end_conn2": ""
+ }
+ ],
+ "size": [
+ {
+ "end_size1": "1.25",
+ "end_size2": ""
+ }
+ ]
+ },
+ {
+ "_id": 56,
+ "description": "Adapter, 25 mm pipe stub x 18x1.5mm",
+ "noun_name": "ADAPTER",
+ "material_type": "HDPE",
+ "pressure_rating": "PN25",
+ "noun_type": "",
+ "end_connection": [
+ {
+ "end_conn1": "FEMALETHD",
+ "end_conn2": ""
+ }
+ ],
+ "size": [
+ {
+ "end_size1": "18\"",
+ "end_size2": "18\""
+ }
+ ]
+ },
+ {
+ "_id": 57,
+ "description": "Adapter, 1/2\" MNPT to 1/2\" FBSP, 316SS",
+ "noun_name": "ADAPTER",
+ "material_type": "",
+ "pressure_rating": "",
+ "noun_type": "",
+ "end_connection": [
+ {
+ "end_conn1": "",
+ "end_conn2": ""
+ }
+ ],
+ "size": [
+ {
+ "end_size1": "1/2\"",
+ "end_size2": ""
+ }
+ ]
+ },
+ {
+ "_id": 58,
+ "description": "ADAPTER, HOSE, 3/4MT X 3/4 MHT, NYLON",
+ "noun_name": "ADAPTER",
+ "material_type": "NY",
+ "pressure_rating": "",
+ "noun_type": "",
+ "end_connection": [
+ {
+ "end_conn1": "MT",
+ "end_conn2": "MT"
+ }
+ ],
+ "size": [
+ {
+ "end_size1": "3/4\"",
+ "end_size2": "3/4\""
+ }
+ ]
+ },
+ {
+ "_id": 59,
+ "description": "ADAPTER ELBOW, 3/4MT x 3/8BARB, PVDF",
+ "noun_name": "ADAPTER",
+ "material_type": "PVDF",
+ "pressure_rating": "",
+ "noun_type": "",
+ "end_connection": [
+ {
+ "end_conn1": "MT",
+ "end_conn2": "BRB"
+ }
+ ],
+ "size": [
+ {
+ "end_size1": "3/4\"",
+ "end_size2": "3/8\""
+ }
+ ]
+ },
+ {
+ "_id": 60,
+ "description": "ADAPTER, STEM, 3/8\"x1/4\" BARB",
+ "noun_name": "ADAPTER",
+ "material_type": "",
+ "pressure_rating": "",
+ "noun_type": "",
+ "end_connection": [
+ {
+ "end_conn1": "",
+ "end_conn2": "BRB"
+ }
+ ],
+ "size": [
+ {
+ "end_size1": "3/8\"",
+ "end_size2": ""
+ }
+ ]
+ },
+ {
+ "_id": 61,
+ "description": "ADAPTER, 3/4MT x 1/4BARB, HDPE",
+ "noun_name": "ADAPTER",
+ "material_type": "HDPE",
+ "pressure_rating": "",
+ "noun_type": "",
+ "end_connection": [
+ {
+ "end_conn1": "MT",
+ "end_conn2": "BRB"
+ }
+ ],
+ "size": [
+ {
+ "end_size1": "3/4\"",
+ "end_size2": ""
+ }
+ ]
+ },
+ {
+ "_id": 62,
+ "description": "ADAPTER, BULKHEAD .38BARBx.38BARBx.25NPSM",
+ "noun_name": "ADAPTER",
+ "material_type": "",
+ "pressure_rating": "",
+ "noun_type": "",
+ "end_connection": [
+ {
+ "end_conn1": "",
+ "end_conn2": ""
+ }
+ ],
+ "size": [
+ {
+ "end_size1": "",
+ "end_size2": ""
+ }
+ ]
+ },
+ {
+ "_id": 63,
+ "description": "ADAPTER, MALE, 1 INCH SOC X MNPT, SCH",
+ "noun_name": "ADAPTER",
+ "material_type": "",
+ "pressure_rating": "SCH 5",
+ "noun_type": "",
+ "end_connection": [
+ {
+ "end_conn1": "SOC",
+ "end_conn2": "MT"
+ }
+ ],
+ "size": [
+ {
+ "end_size1": "",
+ "end_size2": ""
+ }
+ ]
+ },
+ {
+ "_id": 64,
+ "description": "ADAPTER, FEMALE, 1/2 INCH, SOC X THD,PVC",
+ "noun_name": "ADAPTER",
+ "material_type": "PVC",
+ "pressure_rating": "",
+ "noun_type": "",
+ "end_connection": [
+ {
+ "end_conn1": "SOC",
+ "end_conn2": ""
+ }
+ ],
+ "size": [
+ {
+ "end_size1": "1/2\"",
+ "end_size2": ""
+ }
+ ]
+ },
+ {
+ "_id": 65,
+ "description": "ADAPTER, TANK, 1/2 INCH SOC X 1/2 INCH,",
+ "noun_name": "ADAPTER",
+ "material_type": "",
+ "pressure_rating": "",
+ "noun_type": "",
+ "end_connection": [
+ {
+ "end_conn1": "SOC",
+ "end_conn2": "SOC"
+ }
+ ],
+ "size": [
+ {
+ "end_size1": "1/2\"",
+ "end_size2": "1/2\""
+ }
+ ]
+ },
+ {
+ "_id": 66,
+ "description": "ADAPTER, TANK, 3/4 INCH FNPT X 3/4 INCH",
+ "noun_name": "ADAPTER",
+ "material_type": "",
+ "pressure_rating": "",
+ "noun_type": "",
+ "end_connection": [
+ {
+ "end_conn1": "FT",
+ "end_conn2": ""
+ }
+ ],
+ "size": [
+ {
+ "end_size1": "3/4\"",
+ "end_size2": "3/4\""
+ }
+ ]
+ },
+ {
+ "_id": 67,
+ "description": "ADAPTER MALE  1/2\" HOSE X THD INSERT PVC",
+ "noun_name": "ADAPTER",
+ "material_type": "PVC",
+ "pressure_rating": "",
+ "noun_type": "",
+ "end_connection": [
+ {
+ "end_conn1": "SOC",
+ "end_conn2": "THD"
+ }
+ ],
+ "size": [
+ {
+ "end_size1": "1/2\"",
+ "end_size2": ""
+ }
+ ]
+ },
+ {
+ "_id": 68,
+ "description": "ADAPTER MALE  1.5\"HOSE X THREAD PVC.LASCO",
+ "noun_name": "ADAPTER",
+ "material_type": "PVC",
+ "pressure_rating": "",
+ "noun_type": "",
+ "end_connection": [
+ {
+ "end_conn1": "SOC",
+ "end_conn2": "THD"
+ }
+ ],
+ "size": [
+ {
+ "end_size1": "1.5\"",
+ "end_size2": ""
+ }
+ ]
+ },
+ {
+ "_id": 69,
+ "description": "ADAPTER MALE  1.5\" HOSE X THREAD CPVC.",
+ "noun_name": "ADAPTER",
+ "material_type": "CPVC",
+ "pressure_rating": "",
+ "noun_type": "",
+ "end_connection": [
+ {
+ "end_conn1": "SOC",
+ "end_conn2": "THD"
+ }
+ ],
+ "size": [
+ {
+ "end_size1": "1.5\"",
+ "end_size2": ""
+ }
+ ]
+ },
+ {
+ "_id": 70,
+ "description": "ADAPTER INSERT 1\" MALE  MPT X HOSE PVC 80",
+ "noun_name": "ADAPTER",
+ "material_type": "PVC",
+ "pressure_rating": "",
+ "noun_type": "",
+ "end_connection": [
+ {
+ "end_conn1": "MALE",
+ "end_conn2": ""
+ }
+ ],
+ "size": [
+ {
+ "end_size1": "1\"",
+ "end_size2": ""
+ }
+ ]
+ },
+ {
+ "_id": 71,
+ "description": " ADAPTER INSERT 1\" MALE MPT X HOSE",
+ "noun_name": "ADAPTER",
+ "material_type": "",
+ "pressure_rating": "",
+ "noun_type": "",
+ "end_connection": [
+ {
+ "end_conn1": "MALE",
+ "end_conn2": ""
+ }
+ ],
+ "size": [
+ {
+ "end_size1": "1\"",
+ "end_size2": ""
+ }
+ ]
+ },
+ {
+ "_id": 72,
+ "description": "Adapter, redu, 1/4\"x1/8\", Brs, 3.3K#,TxT",
+ "noun_name": "ADAPTER",
+ "material_type": "BRS",
+ "pressure_rating": "",
+ "noun_type": "REDUCED",
+ "end_connection": [
+ {
+ "end_conn1": "T",
+ "end_conn2": ""
+ }
+ ],
+ "size": [
+ {
+ "end_size1": "1/4\"",
+ "end_size2": ""
+ }
+ ]
+ },
+ {
+ "_id": 73,
+ "description": "Adapter, male, 1/4\", Brs, tube, TUxT",
+ "noun_name": "ADAPTER",
+ "material_type": "BRS",
+ "pressure_rating": "",
+ "noun_type": "",
+ "end_connection": [
+ {
+ "end_conn1": "TU",
+ "end_conn2": ""
+ }
+ ],
+ "size": [
+ {
+ "end_size1": "1/4\"",
+ "end_size2": ""
+ }
+ ]
+ },
+ {
+ "_id": 74,
+ "description": "ADAPTER, BRASS, 3/4 INCH FNPT IN/OUT FOR",
+ "noun_name": "ADAPTER",
+ "material_type": "BRS",
+ "pressure_rating": "",
+ "noun_type": "",
+ "end_connection": [
+ {
+ "end_conn1": "",
+ "end_conn2": ""
+ }
+ ],
+ "size": [
+ {
+ "end_size1": "3/4\"",
+ "end_size2": ""
+ }
+ ]
+ },
+ {
+ "_id": 75,
+ "description": "Adapter, redu,3/8\"x1/4\",316, MBSPPxFBSPP",
+ "noun_name": "ADAPTER",
+ "material_type": "SS316",
+ "pressure_rating": "",
+ "noun_type": "REDUCED",
+ "end_connection": [
+ {
+ "end_conn1": "SPG",
+ "end_conn2": ""
+ }
+ ],
+ "size": [
+ {
+ "end_size1": "3/8\"",
+ "end_size2": ""
+ }
+ ]
+ },
+ {
+ "_id": 76,
+ "description": "Adapter, Male, 1/2NPTx1/4Tube, Bored",
+ "noun_name": "ADAPTER",
+ "material_type": "",
+ "pressure_rating": "",
+ "noun_type": "",
+ "end_connection": [
+ {
+ "end_conn1": "SPG",
+ "end_conn2": ""
+ }
+ ],
+ "size": [
+ {
+ "end_size1": "1/2\"",
+ "end_size2": ""
+ }
+ ]
+ },
+ {
+ "_id": 77,
+ "description": "ADAPTER, 316SS, 3/4\" MALE JIC x 3/4\" MNP",
+ "noun_name": "ADAPTER",
+ "material_type": "",
+ "pressure_rating": "",
+ "noun_type": "",
+ "end_connection": [
+ {
+ "end_conn1": "MALE",
+ "end_conn2": "MT"
+ }
+ ],
+ "size": [
+ {
+ "end_size1": "3/4\"",
+ "end_size2": "3/4\""
+ }
+ ]
+ },
+ {
+ "_id": 78,
+ "description": "ADAPTER, 316SS, 3/4\" MALE JIC X 3/4\" MOD",
+ "noun_name": "ADAPTER",
+ "material_type": "",
+ "pressure_rating": "",
+ "noun_type": "",
+ "end_connection": [
+ {
+ "end_conn1": "MALE",
+ "end_conn2": "SOC"
+ }
+ ],
+ "size": [
+ {
+ "end_size1": "3/4\"",
+ "end_size2": "3/4\""
+ }
+ ]
+ },
+ {
+ "_id": 79,
+ "description": "ADAPTER, ELBOW, OVERFLOW 3/8\"",
+ "noun_name": "ADAPTER",
+ "material_type": "",
+ "pressure_rating": "",
+ "noun_type": "",
+ "end_connection": [
+ {
+ "end_conn1": "",
+ "end_conn2": ""
+ }
+ ],
+ "size": [
+ {
+ "end_size1": "8\"",
+ "end_size2": ""
+ }
+ ]
+ },
+ {
+ "_id": 80,
+ "description": "ADAPTER, TANK, 1\" FNPT X 1\" FNPT, HEAVY",
+ "noun_name": "ADAPTER",
+ "material_type": "",
+ "pressure_rating": "",
+ "noun_type": "",
+ "end_connection": [
+ {
+ "end_conn1": "FT",
+ "end_conn2": ""
+ }
+ ],
+ "size": [
+ {
+ "end_size1": "1\"",
+ "end_size2": "1\""
+ }
+ ]
+ },
+ {
+ "_id": 81,
+ "description": "ADAPTER, TANK, 2\" FNPT X 2\" FNPT, HEAVY",
+ "noun_name": "ADAPTER",
+ "material_type": "",
+ "pressure_rating": "",
+ "noun_type": "",
+ "end_connection": [
+ {
+ "end_conn1": "FT",
+ "end_conn2": ""
+ }
+ ],
+ "size": [
+ {
+ "end_size1": "2\"",
+ "end_size2": "2\""
+ }
+ ]
+ },
+ {
+ "_id": 82,
+ "description": "ADAPTER, FEMALE, 3/4 INCH FIPT X 3/4",
+ "noun_name": "ADAPTER",
+ "material_type": "",
+ "pressure_rating": "",
+ "noun_type": "",
+ "end_connection": [
+ {
+ "end_conn1": "",
+ "end_conn2": ""
+ }
+ ],
+ "size": [
+ {
+ "end_size1": "3/4\"",
+ "end_size2": "3/4\""
+ }
+ ]
+ },
+ {
+ "_id": 83,
+ "description": "ADAPTER, FEMALE, 1 INCH FIPT X 1 INCH",
+ "noun_name": "ADAPTER",
+ "material_type": "",
+ "pressure_rating": "",
+ "noun_type": "",
+ "end_connection": [
+ {
+ "end_conn1": "",
+ "end_conn2": ""
+ }
+ ],
+ "size": [
+ {
+ "end_size1": "1/8\"",
+ "end_size2": "1/8\""
+ }
+ ]
+ },
+ {
+ "_id": 84,
+ "description": " ADAPTER,METASOL MMS + CONTACTOR DIRECT",
+ "noun_name": "ADAPTER",
+ "material_type": "",
+ "pressure_rating": "",
+ "noun_type": "",
+ "end_connection": [
+ {
+ "end_conn1": "",
+ "end_conn2": ""
+ }
+ ],
+ "size": [
+ {
+ "end_size1": "",
+ "end_size2": ""
+ }
+ ]
+ },
+ {
+ "_id": 85,
+ "description": "Adapter, M20 male X M25 Female, Ex e\u0026d",
+ "noun_name": "ADAPTER",
+ "material_type": "",
+ "pressure_rating": "",
+ "noun_type": "",
+ "end_connection": [
+ {
+ "end_conn1": "MALE",
+ "end_conn2": "MALE"
+ }
+ ],
+ "size": [
+ {
+ "end_size1": "20\"",
+ "end_size2": ""
+ }
+ ]
+ },
+ {
+ "_id": 86,
+ "description": "ADAPTER, MALE, 1/2\"x1/2\", 316, TUxT",
+ "noun_name": "ADAPTER",
+ "material_type": "SS316",
+ "pressure_rating": "",
+ "noun_type": "",
+ "end_connection": [
+ {
+ "end_conn1": "TU",
+ "end_conn2": ""
+ }
+ ],
+ "size": [
+ {
+ "end_size1": "1/2\"",
+ "end_size2": ""
+ }
+ ]
+ },
+ {
+ "_id": 87,
+ "description": "ADAPTER TANK 1/2 SxT PVC/VITO",
+ "noun_name": "ADAPTER",
+ "material_type": "PVC",
+ "pressure_rating": "",
+ "noun_type": "",
+ "end_connection": [
+ {
+ "end_conn1": "",
+ "end_conn2": ""
+ }
+ ],
+ "size": [
+ {
+ "end_size1": "1/2\"",
+ "end_size2": ""
+ }
+ ]
+ },
+ {
+ "_id": 88,
+ "description": "ADAPTER TANK 1/2 CPVC/VITON",
+ "noun_name": "ADAPTER",
+ "material_type": "CPVC",
+ "pressure_rating": "",
+ "noun_type": "",
+ "end_connection": [
+ {
+ "end_conn1": "",
+ "end_conn2": ""
+ }
+ ],
+ "size": [
+ {
+ "end_size1": "1/2\"",
+ "end_size2": ""
+ }
+ ]
+ },
+ {
+ "_id": 89,
+ "description": "ADAPTER TANK CPVC 1\" SxT VITON",
+ "noun_name": "ADAPTER",
+ "material_type": "CPVC",
+ "pressure_rating": "",
+ "noun_type": "",
+ "end_connection": [
+ {
+ "end_conn1": "SOC",
+ "end_conn2": ""
+ }
+ ],
+ "size": [
+ {
+ "end_size1": "1\"",
+ "end_size2": ""
+ }
+ ]
+ },
+ {
+ "_id": 90,
+ "description": "ADAPTER TANK CPVC 2\" SxT VITON",
+ "noun_name": "ADAPTER",
+ "material_type": "CPVC",
+ "pressure_rating": "",
+ "noun_type": "",
+ "end_connection": [
+ {
+ "end_conn1": "SOC",
+ "end_conn2": ""
+ }
+ ],
+ "size": [
+ {
+ "end_size1": "2\"",
+ "end_size2": ""
+ }
+ ]
+ },
+ {
+ "_id": 91,
+ "description": "ADAPTER Tank PVC Sch80 3/8 SxF",
+ "noun_name": "ADAPTER",
+ "material_type": "PVC",
+ "pressure_rating": "SCH 80",
+ "noun_type": "",
+ "end_connection": [
+ {
+ "end_conn1": "",
+ "end_conn2": ""
+ }
+ ],
+ "size": [
+ {
+ "end_size1": "3/8\"",
+ "end_size2": ""
+ }
+ ]
+ },
+ {
+ "_id": 92,
+ "description": "ADAPTER, TAN 3/8 FT X FT PVC/VIT",
+ "noun_name": "ADAPTER",
+ "material_type": "PVC",
+ "pressure_rating": "",
+ "noun_type": "",
+ "end_connection": [
+ {
+ "end_conn1": "FT",
+ "end_conn2": ""
+ }
+ ],
+ "size": [
+ {
+ "end_size1": "3/8\"",
+ "end_size2": ""
+ }
+ ]
+ },
+ {
+ "_id": 93,
+ "description": "ADAPTER,TANK,1-1/2\",SxT,CPVC/E",
+ "noun_name": "ADAPTER",
+ "material_type": "CPVC",
+ "pressure_rating": "",
+ "noun_type": "",
+ "end_connection": [
+ {
+ "end_conn1": "SOC",
+ "end_conn2": ""
+ }
+ ],
+ "size": [
+ {
+ "end_size1": "2\"",
+ "end_size2": ""
+ }
+ ]
+ },
+ {
+ "_id": 94,
+ "description": "Adapter, redu, 1/4\"x1/8\", 316, 6.6K#,TxT",
+ "noun_name": "ADAPTER",
+ "material_type": "SS316",
+ "pressure_rating": "",
+ "noun_type": "REDUCED",
+ "end_connection": [
+ {
+ "end_conn1": "T",
+ "end_conn2": ""
+ }
+ ],
+ "size": [
+ {
+ "end_size1": "1/4\"",
+ "end_size2": ""
+ }
+ ]
+ },
+ {
+ "_id": 95,
+ "description": "Adapter, Male 3/8\" JICx0.25NPT, Tit",
+ "noun_name": "ADAPTER",
+ "material_type": "TI",
+ "pressure_rating": "",
+ "noun_type": "",
+ "end_connection": [
+ {
+ "end_conn1": "",
+ "end_conn2": "MALE"
+ }
+ ],
+ "size": [
+ {
+ "end_size1": "8\"",
+ "end_size2": "0.75"
+ }
+ ]
+ },
+ {
+ "_id": 96,
+ "description": "Adapter, H2, 3/4\" x 3/8\", CPVC",
+ "noun_name": "ADAPTER",
+ "material_type": "CPVC",
+ "pressure_rating": "",
+ "noun_type": "",
+ "end_connection": [
+ {
+ "end_conn1": "",
+ "end_conn2": ""
+ }
+ ],
+ "size": [
+ {
+ "end_size1": "3/4\"",
+ "end_size2": "3/8\""
+ }
+ ]
+ },
+ {
+ "_id": 97,
+ "description": "Adapter, male, 1\"x3/4\", Brs, unk*, TxT",
+ "noun_name": "ADAPTER",
+ "material_type": "BRS",
+ "pressure_rating": "",
+ "noun_type": "",
+ "end_connection": [
+ {
+ "end_conn1": "T",
+ "end_conn2": ""
+ }
+ ],
+ "size": [
+ {
+ "end_size1": "1\"",
+ "end_size2": ""
+ }
+ ]
+ },
+ {
+ "_id": 98,
+ "description": "Adapter, 3\" sch 80 x G1.5\", PVC, SxT",
+ "noun_name": "ADAPTER",
+ "material_type": "PVC",
+ "pressure_rating": "SCH 5",
+ "noun_type": "",
+ "end_connection": [
+ {
+ "end_conn1": "SOC",
+ "end_conn2": ""
+ }
+ ],
+ "size": [
+ {
+ "end_size1": "1.5\"",
+ "end_size2": ""
+ }
+ ]
+ },
+ {
+ "_id": 99,
+ "description": "Adapter, Male, 1/4\"x3/8\", Ti, Unk, NPSM",
+ "noun_name": "ADAPTER",
+ "material_type": "TI",
+ "pressure_rating": "",
+ "noun_type": "",
+ "end_connection": [
+ {
+ "end_conn1": "",
+ "end_conn2": ""
+ }
+ ],
+ "size": [
+ {
+ "end_size1": "1/4\"",
+ "end_size2": "3/8\""
+ }
+ ]
+ },
+ {
+ "_id": 100,
+ "description": "Adapter, Male, 1/2\"x3/8\", Ti, NPSMxTU",
+ "noun_name": "ADAPTER",
+ "material_type": "TI",
+ "pressure_rating": "",
+ "noun_type": "",
+ "end_connection": [
+ {
+ "end_conn1": "",
+ "end_conn2": ""
+ }
+ ],
+ "size": [
+ {
+ "end_size1": "1/2\"",
+ "end_size2": "3/8\""
+ }
+ ]
+ },
+ {
+ "_id": 101,
+ "description": "Adapter, Male, 1/2\"x3/4\", 316, NPSMxTu",
+ "noun_name": "ADAPTER",
+ "material_type": "SS316",
+ "pressure_rating": "",
+ "noun_type": "",
+ "end_connection": [
+ {
+ "end_conn1": "",
+ "end_conn2": "MALE"
+ }
+ ],
+ "size": [
+ {
+ "end_size1": "1/2\"",
+ "end_size2": "3/4\""
+ }
+ ]
+ },
+ {
+ "_id": 102,
+ "description": "Adapter, 1/4x3/8, Ti, Mag Union x Tu",
+ "noun_name": "ADAPTER",
+ "material_type": "TI",
+ "pressure_rating": "",
+ "noun_type": "",
+ "end_connection": [
+ {
+ "end_conn1": "",
+ "end_conn2": "TU"
+ }
+ ],
+ "size": [
+ {
+ "end_size1": "1/4\"",
+ "end_size2": ""
+ }
+ ]
+ },
+ {
+ "_id": 103,
+ "description": "Adapter, feml, 3/4\", PVC, S80, SxT",
+ "noun_name": "ADAPTER",
+ "material_type": "PVC",
+ "pressure_rating": "SCH 80",
+ "noun_type": "",
+ "end_connection": [
+ {
+ "end_conn1": "SOC",
+ "end_conn2": ""
+ }
+ ],
+ "size": [
+ {
+ "end_size1": "3/4\"",
+ "end_size2": ""
+ }
+ ]
+ },
+ {
+ "_id": 104,
+ "description": "Adapter, feml, 1\", PVC, S80, SxT",
+ "noun_name": "ADAPTER",
+ "material_type": "PVC",
+ "pressure_rating": "SCH 80",
+ "noun_type": "",
+ "end_connection": [
+ {
+ "end_conn1": "SOC",
+ "end_conn2": ""
+ }
+ ],
+ "size": [
+ {
+ "end_size1": "1\"",
+ "end_size2": ""
+ }
+ ]
+ },
+ {
+ "_id": 105,
+ "description": "Adapter, male, 1\", PVC, S80, SxT",
+ "noun_name": "ADAPTER",
+ "material_type": "PVC",
+ "pressure_rating": "SCH 80",
+ "noun_type": "",
+ "end_connection": [
+ {
+ "end_conn1": "SOC",
+ "end_conn2": ""
+ }
+ ],
+ "size": [
+ {
+ "end_size1": "1\"",
+ "end_size2": ""
+ }
+ ]
+ },
+ {
+ "_id": 106,
+ "description": "Adapter, male, 2\", PVC, S80, SxT",
+ "noun_name": "ADAPTER",
+ "material_type": "PVC",
+ "pressure_rating": "SCH 80",
+ "noun_type": "",
+ "end_connection": [
+ {
+ "end_conn1": "SOC",
+ "end_conn2": ""
+ }
+ ],
+ "size": [
+ {
+ "end_size1": "2\"",
+ "end_size2": ""
+ }
+ ]
+ },
+ {
+ "_id": 107,
+ "description": "Adapter, male, 1/2 x 1/4, 316, 7.7K, TUx",
+ "noun_name": "ADAPTER",
+ "material_type": "SS316",
+ "pressure_rating": "",
+ "noun_type": "",
+ "end_connection": [
+ {
+ "end_conn1": "",
+ "end_conn2": ""
+ }
+ ],
+ "size": [
+ {
+ "end_size1": "1\"",
+ "end_size2": ""
+ }
+ ]
+ },
+ {
+ "_id": 108,
+ "description": "Adapter, male, 1/4\"x1/2\", 316, tube,TUxT",
+ "noun_name": "ADAPTER",
+ "material_type": "SS316",
+ "pressure_rating": "",
+ "noun_type": "",
+ "end_connection": [
+ {
+ "end_conn1": "TU",
+ "end_conn2": ""
+ }
+ ],
+ "size": [
+ {
+ "end_size1": "1/4\"",
+ "end_size2": ""
+ }
+ ]
+ },
+ {
+ "_id": 109,
+ "description": "Adapter,Fitting,  1/4\" x 1/8\" TUxT",
+ "noun_name": "ADAPTER",
+ "material_type": "",
+ "pressure_rating": "",
+ "noun_type": "",
+ "end_connection": [
+ {
+ "end_conn1": "TU",
+ "end_conn2": ""
+ }
+ ],
+ "size": [
+ {
+ "end_size1": "1/8\"",
+ "end_size2": ""
+ }
+ ]
+ },
+ {
+ "_id": 110,
+ "description": "Adapter, male, 1/2\"x1/2\", 316, tube,TUxT",
+ "noun_name": "ADAPTER",
+ "material_type": "SS316",
+ "pressure_rating": "",
+ "noun_type": "",
+ "end_connection": [
+ {
+ "end_conn1": "TU",
+ "end_conn2": ""
+ }
+ ],
+ "size": [
+ {
+ "end_size1": "1/2\"",
+ "end_size2": ""
+ }
+ ]
+ },
+ {
+ "_id": 111,
+ "description": "Adapter, male, 1/4\"x1/4\", 316, tube,TUxT",
+ "noun_name": "ADAPTER",
+ "material_type": "SS316",
+ "pressure_rating": "",
+ "noun_type": "",
+ "end_connection": [
+ {
+ "end_conn1": "TU",
+ "end_conn2": ""
+ }
+ ],
+ "size": [
+ {
+ "end_size1": "1/4\"",
+ "end_size2": ""
+ }
+ ]
+ },
+ {
+ "_id": 112,
+ "description": "Adapter, feml, 1/2\", CPVC, S80, SxT",
+ "noun_name": "ADAPTER",
+ "material_type": "CPVC",
+ "pressure_rating": "SCH 80",
+ "noun_type": "",
+ "end_connection": [
+ {
+ "end_conn1": "SOC",
+ "end_conn2": ""
+ }
+ ],
+ "size": [
+ {
+ "end_size1": "1/2\"",
+ "end_size2": ""
+ }
+ ]
+ },
+ {
+ "_id": 113,
+ "description": "Adapter, feml, 1/2\", PVC, S80, SxT, SR",
+ "noun_name": "ADAPTER",
+ "material_type": "PVC",
+ "pressure_rating": "SCH 80",
+ "noun_type": "",
+ "end_connection": [
+ {
+ "end_conn1": "SOC",
+ "end_conn2": ""
+ }
+ ],
+ "size": [
+ {
+ "end_size1": "1/2\"",
+ "end_size2": ""
+ }
+ ]
+ },
+ {
+ "_id": 114,
+ "description": "Adapter, feml, 1\", CPVC, S80, SxT",
+ "noun_name": "ADAPTER",
+ "material_type": "CPVC",
+ "pressure_rating": "SCH 80",
+ "noun_type": "",
+ "end_connection": [
+ {
+ "end_conn1": "SOC",
+ "end_conn2": ""
+ }
+ ],
+ "size": [
+ {
+ "end_size1": "1\"",
+ "end_size2": ""
+ }
+ ]
+ },
+ {
+ "_id": 115,
+ "description": "ADAPTER, CLOSE-OUT, PLUM I/O",
+ "noun_name": "ADAPTER",
+ "material_type": "",
+ "pressure_rating": "",
+ "noun_type": "",
+ "end_connection": [
+ {
+ "end_conn1": "",
+ "end_conn2": ""
+ }
+ ],
+ "size": [
+ {
+ "end_size1": "",
+ "end_size2": ""
+ }
+ ]
+ },
+ {
+ "_id": 116,
+ "description": "Adapter, M20x1/2\", Brs/Ni, TXT",
+ "noun_name": "ADAPTER",
+ "material_type": "BRS",
+ "pressure_rating": "",
+ "noun_type": "",
+ "end_connection": [
+ {
+ "end_conn1": "MT",
+ "end_conn2": ""
+ }
+ ],
+ "size": [
+ {
+ "end_size1": "20\"",
+ "end_size2": ""
+ }
+ ]
+ },
+ {
+ "_id": 117,
+ "description": "Adapter, 0.75x0.75,MBSPPxMJIC, SS",
+ "noun_name": "ADAPTER",
+ "material_type": "SS",
+ "pressure_rating": "",
+ "noun_type": "",
+ "end_connection": [
+ {
+ "end_conn1": "SPG",
+ "end_conn2": ""
+ }
+ ],
+ "size": [
+ {
+ "end_size1": "0.75",
+ "end_size2": "0.75"
+ }
+ ]
+ },
+ {
+ "_id": 118,
+ "description": "ADAPTER, ELBOW STEM 3/8\"ST X 3/8\"TB,PVDF",
+ "noun_name": "ADAPTER",
+ "material_type": "PVDF",
+ "pressure_rating": "",
+ "noun_type": "",
+ "end_connection": [
+ {
+ "end_conn1": "SOC",
+ "end_conn2": "TB"
+ }
+ ],
+ "size": [
+ {
+ "end_size1": "3/8\"",
+ "end_size2": "3/8\""
+ }
+ ]
+ },
+ {
+ "_id": 119,
+ "description": "ADAPTER, ST 1/4\"MT x 1/4\"BARB, PVDF",
+ "noun_name": "ADAPTER",
+ "material_type": "PVDF",
+ "pressure_rating": "",
+ "noun_type": "",
+ "end_connection": [
+ {
+ "end_conn1": "MT",
+ "end_conn2": "BRB"
+ }
+ ],
+ "size": [
+ {
+ "end_size1": "1/4\"",
+ "end_size2": ""
+ }
+ ]
+ },
+ {
+ "_id": 120,
+ "description": "ADAPTER,EL,1/4\"MTx1/4\"BARB,PVDF",
+ "noun_name": "ADAPTER",
+ "material_type": "PVDF",
+ "pressure_rating": "",
+ "noun_type": "",
+ "end_connection": [
+ {
+ "end_conn1": "MT",
+ "end_conn2": "BRB"
+ }
+ ],
+ "size": [
+ {
+ "end_size1": "1/4\"",
+ "end_size2": ""
+ }
+ ]
+ },
+ {
+ "_id": 121,
+ "description": "ADAPTER, RDCR, 3/8 TO 1/4 PUSH",
+ "noun_name": "ADAPTER",
+ "material_type": "PES",
+ "pressure_rating": "",
+ "noun_type": "",
+ "end_connection": [
+ {
+ "end_conn1": "",
+ "end_conn2": ""
+ }
+ ],
+ "size": [
+ {
+ "end_size1": "3/8\"",
+ "end_size2": ""
+ }
+ ]
+ },
+ {
+ "_id": 122,
+ "description": "ADAPTER, FEMALE, 1-1/2\" FIPT X 1-1/2\"SOC",
+ "noun_name": "ADAPTER",
+ "material_type": "",
+ "pressure_rating": "",
+ "noun_type": "",
+ "end_connection": [
+ {
+ "end_conn1": "FT",
+ "end_conn2": ""
+ }
+ ],
+ "size": [
+ {
+ "end_size1": "1/2\"",
+ "end_size2": ""
+ }
+ ]
+ },
+ {
+ "_id": 123,
+ "description": "RJ-45 Connector to Terminal Adapter,",
+ "noun_name": "ADAPTER",
+ "material_type": "",
+ "pressure_rating": "",
+ "noun_type": "",
+ "end_connection": [
+ {
+ "end_conn1": "",
+ "end_conn2": ""
+ }
+ ],
+ "size": [
+ {
+ "end_size1": "",
+ "end_size2": ""
+ }
+ ]
+ },
+ {
+ "_id": 124,
+ "description": "Adapter, bushing, PG13.5 X 1\" NPT,",
+ "noun_name": "ADAPTER",
+ "material_type": "",
+ "pressure_rating": "",
+ "noun_type": "",
+ "end_connection": [
+ {
+ "end_conn1": "",
+ "end_conn2": ""
+ }
+ ],
+ "size": [
+ {
+ "end_size1": "1.5\"",
+ "end_size2": "1\""
+ }
+ ]
+ },
+ {
+ "_id": 125,
+ "description": "Connector-e, Adapter, 3/4\" x 1/2\", NP",
+ "noun_name": "ADAPTER",
+ "material_type": "",
+ "pressure_rating": "",
+ "noun_type": "",
+ "end_connection": [
+ {
+ "end_conn1": "",
+ "end_conn2": ""
+ }
+ ],
+ "size": [
+ {
+ "end_size1": "3/4\"",
+ "end_size2": ""
+ }
+ ]
+ },
+ {
+ "_id": 126,
+ "description": "ADAPTER, REMOTE CALIBRATION, SPLASH,",
+ "noun_name": "ADAPTER",
+ "material_type": "",
+ "pressure_rating": "",
+ "noun_type": "",
+ "end_connection": [
+ {
+ "end_conn1": "",
+ "end_conn2": ""
+ }
+ ],
+ "size": [
+ {
+ "end_size1": "",
+ "end_size2": ""
+ }
+ ]
+ },
+ {
+ "_id": 127,
+ "description": "ADAPTER, TANK, 1-1/2 IN FNPT X 1-1/2 IN",
+ "noun_name": "ADAPTER",
+ "material_type": "",
+ "pressure_rating": "",
+ "noun_type": "",
+ "end_connection": [
+ {
+ "end_conn1": "",
+ "end_conn2": ""
+ }
+ ],
+ "size": [
+ {
+ "end_size1": "1-1/2\"",
+ "end_size2": ""
+ }
+ ]
+ },
+ {
+ "_id": 128,
+ "description": "KIT, 56C FACE MOTOR ADAPTER, INCLUDE  1",
+ "noun_name": "ADAPTER",
+ "material_type": "",
+ "pressure_rating": "",
+ "noun_type": "",
+ "end_connection": [
+ {
+ "end_conn1": "",
+ "end_conn2": ""
+ }
+ ],
+ "size": [
+ {
+ "end_size1": "",
+ "end_size2": ""
+ }
+ ]
+ },
+ {
+ "_id": 129,
+ "description": "MODICON X80 EIO DROP ADAPTER WITH",
+ "noun_name": "ADAPTER",
+ "material_type": "",
+ "pressure_rating": "",
+ "noun_type": "",
+ "end_connection": [
+ {
+ "end_conn1": "",
+ "end_conn2": ""
+ }
+ ],
+ "size": [
+ {
+ "end_size1": "",
+ "end_size2": ""
+ }
+ ]
+ },
+ {
+ "_id": 130,
+ "description": "Communication Adapter, EtherNet/IP Bridg",
+ "noun_name": "ADAPTER",
+ "material_type": "",
+ "pressure_rating": "",
+ "noun_type": "",
+ "end_connection": [
+ {
+ "end_conn1": "",
+ "end_conn2": ""
+ }
+ ],
+ "size": [
+ {
+ "end_size1": "",
+ "end_size2": ""
+ }
+ ]
+ },
+ {
+ "_id": 131,
+ "description": "ADAPTER,  TANK, 1 INCH SOC X THD, HEAVY",
+ "noun_name": "ADAPTER",
+ "material_type": "",
+ "pressure_rating": "",
+ "noun_type": "",
+ "end_connection": [
+ {
+ "end_conn1": "SOC",
+ "end_conn2": ""
+ }
+ ],
+ "size": [
+ {
+ "end_size1": "",
+ "end_size2": ""
+ }
+ ]
+ },
+ {
+ "_id": 132,
+ "description": "MALE ADAPTER 1.5\" SXT PVC SCH 80 SPEARS",
+ "noun_name": "ADAPTER",
+ "material_type": "PES",
+ "pressure_rating": "SCH 5",
+ "noun_type": "",
+ "end_connection": [
+ {
+ "end_conn1": "SOC",
+ "end_conn2": ""
+ }
+ ],
+ "size": [
+ {
+ "end_size1": "1.5\"",
+ "end_size2": ""
+ }
+ ]
+ },
+ {
+ "_id": 133,
+ "description": "MALE ADAPTER 2\" SXT PVC SCH80 SPEARS P/N",
+ "noun_name": "ADAPTER",
+ "material_type": "PES",
+ "pressure_rating": "SCH 80",
+ "noun_type": "",
+ "end_connection": [
+ {
+ "end_conn1": "SOC",
+ "end_conn2": ""
+ }
+ ],
+ "size": [
+ {
+ "end_size1": "2\"",
+ "end_size2": ""
+ }
+ ]
+ },
+ {
+ "_id": 134,
+ "description": "MALE ADAPTER 3/4\" HOSE X THD INSERT PVC",
+ "noun_name": "ADAPTER",
+ "material_type": "PVC",
+ "pressure_rating": "",
+ "noun_type": "",
+ "end_connection": [
+ {
+ "end_conn1": "SOC",
+ "end_conn2": "THD"
+ }
+ ],
+ "size": [
+ {
+ "end_size1": "3/4\"",
+ "end_size2": ""
+ }
+ ]
+ },
+ {
+ "_id": 135,
+ "description": "Terminal, Operator Interface, Adapter",
+ "noun_name": "ADAPTER",
+ "material_type": "",
+ "pressure_rating": "",
+ "noun_type": "",
+ "end_connection": [
+ {
+ "end_conn1": "",
+ "end_conn2": ""
+ }
+ ],
+ "size": [
+ {
+ "end_size1": "",
+ "end_size2": ""
+ }
+ ]
+ },
+ {
+ "_id": 136,
+ "description": "Adapter, male, 1/4\", Brs, tube, TUxT",
+ "noun_name": "ADAPTER",
+ "material_type": "BRS",
+ "pressure_rating": "",
+ "noun_type": "",
+ "end_connection": [
+ {
+ "end_conn1": "TU",
+ "end_conn2": ""
+ }
+ ],
+ "size": [
+ {
+ "end_size1": "1/4\"",
+ "end_size2": ""
+ }
+ ]
+ },
+ {
+ "_id": 137,
+ "description": "Adapter, male, 1/4\"x1/2\", 316, tube,TUxT",
+ "noun_name": "ADAPTER",
+ "material_type": "SS316",
+ "pressure_rating": "",
+ "noun_type": "",
+ "end_connection": [
+ {
+ "end_conn1": "TU",
+ "end_conn2": ""
+ }
+ ],
+ "size": [
+ {
+ "end_size1": "1/4\"",
+ "end_size2": ""
+ }
+ ]
+ },
+ {
+ "_id": 138,
+ "description": "Adapter, male, 1\"x1/2\", Brs, unk*, TxT",
+ "noun_name": "ADAPTER",
+ "material_type": "BRS",
+ "pressure_rating": "",
+ "noun_type": "",
+ "end_connection": [
+ {
+ "end_conn1": "T",
+ "end_conn2": ""
+ }
+ ],
+ "size": [
+ {
+ "end_size1": "1\"",
+ "end_size2": "1/2\""
+ }
+ ]
+ },
+ {
+ "_id": 139,
+ "description": "Adapter, PVC, Flow Switch Mtg, 1.5\" Pipe",
+ "noun_name": "ADAPTER",
+ "material_type": "HDPE",
+ "pressure_rating": "",
+ "noun_type": "",
+ "end_connection": [
+ {
+ "end_conn1": "",
+ "end_conn2": ""
+ }
+ ],
+ "size": [
+ {
+ "end_size1": "1.5\"",
+ "end_size2": ""
+ }
+ ]
+ },
+ {
+ "_id": 140,
+ "description": "ADAPTER, 3\" SCH 80 X G2.25 M\", PVC, SXT",
+ "noun_name": "ADAPTER",
+ "material_type": "PVC",
+ "pressure_rating": "SCH 5",
+ "noun_type": "",
+ "end_connection": [
+ {
+ "end_conn1": "SOC",
+ "end_conn2": ""
+ }
+ ],
+ "size": [
+ {
+ "end_size1": "1.25",
+ "end_size2": ""
+ }
+ ]
+ },
+ {
+ "_id": 141,
+ "description": "Adapter, M16x3/4\", Brs/Ni, TXT",
+ "noun_name": "ADAPTER",
+ "material_type": "BRS",
+ "pressure_rating": "",
+ "noun_type": "",
+ "end_connection": [
+ {
+ "end_conn1": "MT",
+ "end_conn2": ""
+ }
+ ],
+ "size": [
+ {
+ "end_size1": "16\"",
+ "end_size2": ""
+ }
+ ]
+ },
+ {
+ "_id": 142,
+ "description": "Adapter, 0.75x0.75,MNPTxMJIC, Brass",
+ "noun_name": "ADAPTER",
+ "material_type": "BRS",
+ "pressure_rating": "",
+ "noun_type": "",
+ "end_connection": [
+ {
+ "end_conn1": "MT",
+ "end_conn2": ""
+ }
+ ],
+ "size": [
+ {
+ "end_size1": "0.75",
+ "end_size2": "0.75"
+ }
+ ]
+ },
+ {
+ "_id": 143,
+ "description": "Adapter, 0.75x0.75,MBSPPxMJIC, Brass",
+ "noun_name": "ADAPTER",
+ "material_type": "BRS",
+ "pressure_rating": "",
+ "noun_type": "",
+ "end_connection": [
+ {
+ "end_conn1": "SPG",
+ "end_conn2": ""
+ }
+ ],
+ "size": [
+ {
+ "end_size1": "0.75",
+ "end_size2": "0.75"
+ }
+ ]
+ },
+ {
+ "_id": 144,
+ "description": "Adapter, M20 - 3/4\"FNPT NP,",
+ "noun_name": "ADAPTER",
+ "material_type": "",
+ "pressure_rating": "",
+ "noun_type": "",
+ "end_connection": [
+ {
+ "end_conn1": "",
+ "end_conn2": ""
+ }
+ ],
+ "size": [
+ {
+ "end_size1": "",
+ "end_size2": ""
+ }
+ ]
+ },
+ {
+ "_id": 145,
+ "description": "Adapter, redu, 1\"x3/4\", CS, CL-1, TxT",
+ "noun_name": "ADAPTER",
+ "material_type": "CS",
+ "pressure_rating": "",
+ "noun_type": "REDUCED",
+ "end_connection": [
+ {
+ "end_conn1": "T",
+ "end_conn2": ""
+ }
+ ],
+ "size": [
+ {
+ "end_size1": "1\"",
+ "end_size2": ""
+ }
+ ]
+ },
+ {
+ "_id": 146,
+ "description": "Adapter 3/8 SxFT PVC",
+ "noun_name": "ADAPTER",
+ "material_type": "PVC",
+ "pressure_rating": "",
+ "noun_type": "",
+ "end_connection": [
+ {
+ "end_conn1": "",
+ "end_conn2": ""
+ }
+ ],
+ "size": [
+ {
+ "end_size1": "3/8\"",
+ "end_size2": ""
+ }
+ ]
+ },
+ {
+ "_id": 147,
+ "description": "ADAPTER TANK 2\" SxT PVC/VITON",
+ "noun_name": "ADAPTER",
+ "material_type": "PVC",
+ "pressure_rating": "",
+ "noun_type": "",
+ "end_connection": [
+ {
+ "end_conn1": "SOC",
+ "end_conn2": ""
+ }
+ ],
+ "size": [
+ {
+ "end_size1": "2\"",
+ "end_size2": ""
+ }
+ ]
+ },
+ {
+ "_id": 148,
+ "description": "ADAPTER, 3/8\" STEM x 3/8\" BARB, PVDF",
+ "noun_name": "ADAPTER",
+ "material_type": "PVDF",
+ "pressure_rating": "",
+ "noun_type": "",
+ "end_connection": [
+ {
+ "end_conn1": "SOC",
+ "end_conn2": ""
+ }
+ ],
+ "size": [
+ {
+ "end_size1": "3/8\"",
+ "end_size2": "3/8\""
+ }
+ ]
+ },
+ {
+ "_id": 149,
+ "description": "Adapter, Elbow, 3/8\"Stem x 3/8\"Barb,PVDF",
+ "noun_name": "ADAPTER",
+ "material_type": "PVDF",
+ "pressure_rating": "",
+ "noun_type": "",
+ "end_connection": [
+ {
+ "end_conn1": "SOC",
+ "end_conn2": ""
+ }
+ ],
+ "size": [
+ {
+ "end_size1": "3/8\"",
+ "end_size2": "3/8\""
+ }
+ ]
+ },
+ {
+ "_id": 150,
+ "description": "ADAPTER, ELBOW, 3/8x3/8BARB",
+ "noun_name": "ADAPTER",
+ "material_type": "",
+ "pressure_rating": "",
+ "noun_type": "",
+ "end_connection": [
+ {
+ "end_conn1": "",
+ "end_conn2": ""
+ }
+ ],
+ "size": [
+ {
+ "end_size1": "3/8\"",
+ "end_size2": "3/8\""
+ }
+ ]
+ },
+ {
+ "_id": 151,
+ "description": "ADAPTER, INSERT, IPSxSPIGOT",
+ "noun_name": "ADAPTER",
+ "material_type": "",
+ "pressure_rating": "",
+ "noun_type": "",
+ "end_connection": [
+ {
+ "end_conn1": "",
+ "end_conn2": ""
+ }
+ ],
+ "size": [
+ {
+ "end_size1": "",
+ "end_size2": ""
+ }
+ ]
+ },
+ {
+ "_id": 152,
+ "description": "Adapter, redu, 1/4\"x1/2\", 316, MNPTxFNPT",
+ "noun_name": "ADAPTER",
+ "material_type": "SS316",
+ "pressure_rating": "",
+ "noun_type": "REDUCED",
+ "end_connection": [
+ {
+ "end_conn1": "MT",
+ "end_conn2": "FT"
+ }
+ ],
+ "size": [
+ {
+ "end_size1": "1/4\"",
+ "end_size2": ""
+ }
+ ]
+ },
+ {
+ "_id": 153,
+ "description": "ADAPTER, ST 3/8\" MT x 1/4\" BARB, KYNAR",
+ "noun_name": "ADAPTER",
+ "material_type": "",
+ "pressure_rating": "",
+ "noun_type": "",
+ "end_connection": [
+ {
+ "end_conn1": "MT",
+ "end_conn2": "BRB"
+ }
+ ],
+ "size": [
+ {
+ "end_size1": "3/8\"",
+ "end_size2": ""
+ }
+ ]
+ },
+ {
+ "_id": 154,
+ "description": "ADAPTER,1/4MTx1/8BARB,KYNAR",
+ "noun_name": "ADAPTER",
+ "material_type": "",
+ "pressure_rating": "",
+ "noun_type": "",
+ "end_connection": [
+ {
+ "end_conn1": "MT",
+ "end_conn2": "BRB"
+ }
+ ],
+ "size": [
+ {
+ "end_size1": "1/4\"",
+ "end_size2": ""
+ }
+ ]
+ },
+ {
+ "_id": 155,
+ "description": "BULKHEAD ADAPTER, BARB",
+ "noun_name": "ADAPTER",
+ "material_type": "",
+ "pressure_rating": "",
+ "noun_type": "",
+ "end_connection": [
+ {
+ "end_conn1": "",
+ "end_conn2": "BRB"
+ }
+ ],
+ "size": [
+ {
+ "end_size1": "",
+ "end_size2": ""
+ }
+ ]
+ },
+ {
+ "_id": 156,
+ "description": "Plate, Adapter, F/Contactor 400-03610",
+ "noun_name": "ADAPTER",
+ "material_type": "",
+ "pressure_rating": "",
+ "noun_type": "",
+ "end_connection": [
+ {
+ "end_conn1": "",
+ "end_conn2": ""
+ }
+ ],
+ "size": [
+ {
+ "end_size1": "3/8\"",
+ "end_size2": ""
+ }
+ ]
+ },
+ {
+ "_id": 157,
+ "description": "FLANGE ADAPTER, 6\" x 6\" x 3\" NPT. PENTAI",
+ "noun_name": "ADAPTER",
+ "material_type": "PE",
+ "pressure_rating": "",
+ "noun_type": "",
+ "end_connection": [
+ {
+ "end_conn1": "",
+ "end_conn2": ""
+ }
+ ],
+ "size": [
+ {
+ "end_size1": "6\"",
+ "end_size2": ""
+ }
+ ]
+ },
+ {
+ "_id": 158,
+ "description": "ADAPTER, HOSE, 2 INCH BARB x 2 INCH SOCK",
+ "noun_name": "ADAPTER",
+ "material_type": "",
+ "pressure_rating": "",
+ "noun_type": "",
+ "end_connection": [
+ {
+ "end_conn1": "BRB",
+ "end_conn2": "SOC"
+ }
+ ],
+ "size": [
+ {
+ "end_size1": "2\"",
+ "end_size2": "2\""
+ }
+ ]
+ },
+ {
+ "_id": 159,
+ "description": "TANK ADAPTER, 1\" PVC/VITON, SXT, HAYWARD",
+ "noun_name": "ADAPTER",
+ "material_type": "PVC",
+ "pressure_rating": "",
+ "noun_type": "",
+ "end_connection": [
+ {
+ "end_conn1": "SOC",
+ "end_conn2": ""
+ }
+ ],
+ "size": [
+ {
+ "end_size1": "1\"",
+ "end_size2": ""
+ }
+ ]
+ },
+ {
+ "_id": 160,
+ "description": "ADAPTER, TANK 1\" CPVC/VITON SXT. RYAN HE",
+ "noun_name": "ADAPTER",
+ "material_type": "CPVC",
+ "pressure_rating": "",
+ "noun_type": "",
+ "end_connection": [
+ {
+ "end_conn1": "",
+ "end_conn2": ""
+ }
+ ],
+ "size": [
+ {
+ "end_size1": "1\"",
+ "end_size2": ""
+ }
+ ]
+ },
+ {
+ "_id": 161,
+ "description": "ADAPTER, TANK 1/2\" PVC/Viton SXT",
+ "noun_name": "ADAPTER",
+ "material_type": "PVC",
+ "pressure_rating": "",
+ "noun_type": "",
+ "end_connection": [
+ {
+ "end_conn1": "",
+ "end_conn2": ""
+ }
+ ],
+ "size": [
+ {
+ "end_size1": "1/2\"",
+ "end_size2": ""
+ }
+ ]
+ },
+ {
+ "_id": 162,
+ "description": "Connector-e, Adapter, M20 x 1/2\", NP",
+ "noun_name": "ADAPTER",
+ "material_type": "",
+ "pressure_rating": "",
+ "noun_type": "",
+ "end_connection": [
+ {
+ "end_conn1": "MT",
+ "end_conn2": ""
+ }
+ ],
+ "size": [
+ {
+ "end_size1": "20\"",
+ "end_size2": ""
+ }
+ ]
+ },
+ {
+ "_id": 163,
+ "description": "ADAPTER, E-CLIP, FOR USE WITH CP SERIES",
+ "noun_name": "ADAPTER",
+ "material_type": "CI",
+ "pressure_rating": "",
+ "noun_type": "",
+ "end_connection": [
+ {
+ "end_conn1": "",
+ "end_conn2": ""
+ }
+ ],
+ "size": [
+ {
+ "end_size1": "",
+ "end_size2": ""
+ }
+ ]
+ },
+ {
+ "_id": 164,
+ "description": "Adapter, 0.75x0.5,MJICxMNPT,Brass",
+ "noun_name": "ADAPTER",
+ "material_type": "BRS",
+ "pressure_rating": "",
+ "noun_type": "",
+ "end_connection": [
+ {
+ "end_conn1": "SOC",
+ "end_conn2": "MT"
+ }
+ ],
+ "size": [
+ {
+ "end_size1": "0.75",
+ "end_size2": "0.75"
+ }
+ ]
+ },
+ {
+ "_id": 165,
+ "description": "FLOW SWITCH PIPE ADAPTER",
+ "noun_name": "ADAPTER",
+ "material_type": "HDPE",
+ "pressure_rating": "",
+ "noun_type": "",
+ "end_connection": [
+ {
+ "end_conn1": "",
+ "end_conn2": ""
+ }
+ ],
+ "size": [
+ {
+ "end_size1": "",
+ "end_size2": ""
+ }
+ ]
+ },
+ {
+ "_id": 166,
+ "description": "Adapter, redu, 1/2x3/8\", 316, 7.8K#, TxT",
+ "noun_name": "ADAPTER",
+ "material_type": "SS316",
+ "pressure_rating": "",
+ "noun_type": "REDUCED",
+ "end_connection": [
+ {
+ "end_conn1": "T",
+ "end_conn2": ""
+ }
+ ],
+ "size": [
+ {
+ "end_size1": "1/8\"",
+ "end_size2": ""
+ }
+ ]
+ },
+ {
+ "_id": 167,
+ "description": "Seal, Adapter, Ethylene Propylene, for P",
+ "noun_name": "ADAPTER",
+ "material_type": "PE",
+ "pressure_rating": "",
+ "noun_type": "",
+ "end_connection": [
+ {
+ "end_conn1": "",
+ "end_conn2": ""
+ }
+ ],
+ "size": [
+ {
+ "end_size1": "",
+ "end_size2": ""
+ }
+ ]
+ },
+ {
+ "_id": 168,
+ "description": "Membrane Adapter for Protec Ariswa PRO 4",
+ "noun_name": "ADAPTER",
+ "material_type": "",
+ "pressure_rating": "",
+ "noun_type": "",
+ "end_connection": [
+ {
+ "end_conn1": "",
+ "end_conn2": ""
+ }
+ ],
+ "size": [
+ {
+ "end_size1": "",
+ "end_size2": ""
+ }
+ ]
+ },
+ {
+ "_id": 169,
+ "description": "Connector-e, Adapter, M32 x 1/2\"(F)",
+ "noun_name": "ADAPTER",
+ "material_type": "",
+ "pressure_rating": "",
+ "noun_type": "",
+ "end_connection": [
+ {
+ "end_conn1": "MT",
+ "end_conn2": ""
+ }
+ ],
+ "size": [
+ {
+ "end_size1": "2\"",
+ "end_size2": ""
+ }
+ ]
+ },
+ {
+ "_id": 170,
+ "description": "Adapter, M16 x M20, Brs/Ni, TxT",
+ "noun_name": "ADAPTER",
+ "material_type": "BRS",
+ "pressure_rating": "",
+ "noun_type": "",
+ "end_connection": [
+ {
+ "end_conn1": "MT",
+ "end_conn2": "MT"
+ }
+ ],
+ "size": [
+ {
+ "end_size1": "16\"",
+ "end_size2": ""
+ }
+ ]
+ },
+ {
+ "_id": 171,
+ "description": "Adapter, PVC, Flow Switch Mtg, 3/4\" Pipe",
+ "noun_name": "ADAPTER",
+ "material_type": "HDPE",
+ "pressure_rating": "",
+ "noun_type": "",
+ "end_connection": [
+ {
+ "end_conn1": "",
+ "end_conn2": ""
+ }
+ ],
+ "size": [
+ {
+ "end_size1": "3/4\"",
+ "end_size2": ""
+ }
+ ]
+ },
+ {
+ "_id": 172,
+ "description": "TANK ADAPTER 2” SOC X THD VITON. SPEARS",
+ "noun_name": "ADAPTER",
+ "material_type": "PES",
+ "pressure_rating": "",
+ "noun_type": "",
+ "end_connection": [
+ {
+ "end_conn1": "SOC",
+ "end_conn2": ""
+ }
+ ],
+ "size": [
+ {
+ "end_size1": "",
+ "end_size2": ""
+ }
+ ]
+ },
+ {
+ "_id": 173,
+ "description": "FLANGE ADAPTER, 2\", 150# to 300#",
+ "noun_name": "ADAPTER",
+ "material_type": "",
+ "pressure_rating": "",
+ "noun_type": "",
+ "end_connection": [
+ {
+ "end_conn1": "",
+ "end_conn2": ""
+ }
+ ],
+ "size": [
+ {
+ "end_size1": "2\"",
+ "end_size2": ""
+ }
+ ]
+ },
+ {
+ "_id": 174,
+ "description": "ADAPTER, BARB, .50\" SPIGOT CPVC",
+ "noun_name": "ADAPTER",
+ "material_type": "CPVC",
+ "pressure_rating": "",
+ "noun_type": "",
+ "end_connection": [
+ {
+ "end_conn1": "",
+ "end_conn2": ""
+ }
+ ],
+ "size": [
+ {
+ "end_size1": "",
+ "end_size2": ""
+ }
+ ]
+ },
+ {
+ "_id": 175,
+ "description": "Adapter, DIn rail, Patch, Panel",
+ "noun_name": "ADAPTER",
+ "material_type": "",
+ "pressure_rating": "",
+ "noun_type": "",
+ "end_connection": [
+ {
+ "end_conn1": "",
+ "end_conn2": ""
+ }
+ ],
+ "size": [
+ {
+ "end_size1": "",
+ "end_size2": ""
+ }
+ ]
+ },
+ {
+ "_id": 176,
+ "description": "Adapter, male, 1\", CPVC, S80, SxT",
+ "noun_name": "ADAPTER",
+ "material_type": "CPVC",
+ "pressure_rating": "SCH 80",
+ "noun_type": "",
+ "end_connection": [
+ {
+ "end_conn1": "SOC",
+ "end_conn2": ""
+ }
+ ],
+ "size": [
+ {
+ "end_size1": "1\"",
+ "end_size2": ""
+ }
+ ]
+ },
+ {
+ "_id": 177,
+ "description": "Adapter, feml, 3/4\", CPVC, S80, SxT",
+ "noun_name": "ADAPTER",
+ "material_type": "CPVC",
+ "pressure_rating": "SCH 80",
+ "noun_type": "",
+ "end_connection": [
+ {
+ "end_conn1": "SOC",
+ "end_conn2": ""
+ }
+ ],
+ "size": [
+ {
+ "end_size1": "3/4\"",
+ "end_size2": ""
+ }
+ ]
+ }
+ ]

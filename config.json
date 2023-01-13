@@ -1,0 +1,29 @@
+{
+    "nouns": [
+        {
+            "noun_name": "ADAPTER",
+            "attributes": [
+                "MaterialType",
+                "PressureRating",
+                "EndConnection1",
+                "EndConnection2",
+                "EndSize1",
+                "EndSize2",
+                "Type"
+            ]
+        },
+        {
+            "noun_name": "ELBOW",
+            "attributes": [
+                "MaterialType",
+                "PressureRating",
+                "EndConnection1",
+                "EndConnection2",
+                "EndSize1",
+                "EndSize2",
+                "Type",
+                "Angle"
+            ]
+        }
+    ]
+}
